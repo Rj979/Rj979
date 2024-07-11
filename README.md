@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hyperblock <br>🤝 I’m looking for help with java<br>🌱 I’m currently learning c++ <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Hyperblock <br>🤝 I’m looking for help with java<br>🌱 I’m currently learning c++ <br>💬 Ask me about minecraft <br>⚡ Fun fact There are over 700 different programming languages.
 
 
 ## 🌐 Socials:
